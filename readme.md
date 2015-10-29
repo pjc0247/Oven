@@ -8,7 +8,7 @@ Implement interfaces at the RUNTIME.
 
 Better points than `dynamic` keyword
 ----
-* Strict type and name checking
+* Strict type and name checking at Compile Time
 * BUT, dynamic linking between interface and implementation
 
 How to Bake
