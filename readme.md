@@ -49,10 +49,11 @@ Oven
 
 Implement interfaces at the RUNTIME.
 
-Better points than `dynamic` keyword
+Difference between `dynamic` and `Oven`
 ----
-* CompileTime : Strict type and name checking
-* RunTime :  Dynamic linking between interface and implementation
+* __Oven__ : Strict type and name checking in compile time.
+* __Dynamic__ : 
+* __Common__ :  Dynamic linking between interface and implementation
 
 How to Bake
 ----
