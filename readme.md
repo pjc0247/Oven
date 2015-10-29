@@ -12,14 +12,14 @@ Oven
 
 빵 굽는 법
 ----
-`빵틀`을 준비합니다. 빵틀은 찍어낼 오브젝트의 인터페이스입니다.
+__빵틀__을 준비합니다. 빵틀은 찍어낼 오브젝트의 인터페이스입니다.
 ```c#
 public interface Math
 {
   int Sum(int a,int b);
 }
 ```
-`빵에 넣을 재료`를 만듭니다. 
+__빵에 넣을 재료__를 만듭니다. 
 ```c#
 public class MathImpl : IFilling
 {
