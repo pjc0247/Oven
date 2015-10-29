@@ -22,7 +22,7 @@ public interface Math
 ```
 Make `Fillings`
 ```c#
-public class MathImpl
+public class MathImpl : IFilling
 {
   public object OnMethod(Type type, MethodInfo method, object[] args)
   {
