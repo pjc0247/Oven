@@ -19,7 +19,7 @@ public interface Math
   int Sum(int a,int b);
 }
 ```
-__빵에 넣을 재료__를 만듭니다. 
+__빵틀에 넣고 구울 재료__를 만듭니다. 
 ```c#
 public class MathImpl : IFilling
 {
